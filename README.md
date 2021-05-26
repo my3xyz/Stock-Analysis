@@ -10,3 +10,5 @@ To run this app locally:
     pip install -r requirements.txt
 3. Run the program by using the following command:
      streamlit run analysis.py
+     
+     
