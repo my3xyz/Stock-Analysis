@@ -16,8 +16,8 @@ import datetime
 
 # print title of web app
 st.title("Stock Market Analysis and Prediction")
-st.markdown("> Stock Market Analysis and Prediction is the project on technical analysis, visualization and prediction using data provided by Yahoo Finance.")
-st.markdown("> It is web app which predicts the future value of company stock or other ﬁnancial instrument traded on an exchange.")
+st.markdown("> Analysis, visualization and prediction using Yahoo Finance's data.")
+st.markdown("> Predicts the future value of company stock or other ﬁnancial instrument traded on an exchange.")
 
 # Create a text element and let the reader know the data is loading.
 data_load_state = st.text('Loading data...')
